@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying Computer Science at CESAR School
 - 🌱 I’m currently learning Machine Learning and IOS development 
 - 👀 I'm looking forward to become a [@campus-experts](https://github.com/campus-experts) 
-- 📫 How to reach me: [joaovictorbravo804@gmail.com]
+- 📫 How to reach me: joaovictorbravo804@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The first time I set up my desktop computer it took me 8h
 
