@@ -1,8 +1,6 @@
 ### Hello Hello, I'm Bravo 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Computer Science at CESAR School
 - 🌱 I’m currently learning Machine Learning and IOS development 
 - 👀 I'm looking forward to become a [@campus-experts](https://github.com/campus-experts) 
