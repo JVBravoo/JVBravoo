@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying Computer Science at CESAR School
-- 🌱 I’m currently learning Machine Learning and IOS development 
+- 🚀 I’m currently learning Machine Learning and IOS development 
 - 👀 I'm looking forward to become a [@campus-experts](https://github.com/campus-experts) 
 - 📫 How to reach me: joaovictorbravo804@gmail.com
 - 😄 Pronouns: He/Him
